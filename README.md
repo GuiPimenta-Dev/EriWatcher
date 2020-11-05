@@ -12,7 +12,7 @@ As querys geradas são inseridas no banco de dados automaticamente e todos os pa
 
 [![EriLogger](http://img.youtube.com/vi/GJ2sm3r6_RY/0.jpg)](http://www.youtube.com/watch?v=GJ2sm3r6_RY "EriLogger")
 
-Também desenvolvido um assistente virtual para o gerenciamento de tickets.
+Também foi desenvolvido um assistente virtual para o gerenciamento dos tickets.
 
 [![EriAnalyser](http://img.youtube.com/vi/-FPISTia8pE/0.jpg)](http://www.youtube.com/watch?v=-FPISTia8pE "EriAnalyser")
 

@@ -20,6 +20,6 @@ Também foi desenvolvido um assistente virtual para o gerenciamento dos tickets.
 Tecnologias utilizadas:
 
   * Python
-  * RPA (UIPATH)
+  * UIPATH
   * VBA
   * ORACLE

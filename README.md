@@ -17,6 +17,8 @@ Também foi desenvolvido um assistente virtual para o gerenciamento dos tickets.
 [![EriAnalyser](http://img.youtube.com/vi/-FPISTia8pE/0.jpg)](http://www.youtube.com/watch?v=-FPISTia8pE "EriAnalyser")
 
 
+
+
 **Tecnologias utilizadas:**
 
   * **Python**

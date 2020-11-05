@@ -4,7 +4,7 @@
 
 Foi desenvolvido um robô que vigia a fila de chamados e ao perceber um ticket específico automaticamente baixa uma planilha criada especificamente para a automação (Videos e Planilha/DocumentoExemplo.xlsm), onde as querys sao criadas de acordo com as informaçõoes inseridas.
 
-O robô envia uma mensagem no Telegram informando o tratamento do chamado.
+O robô envia uma mensagem via Telegram informando o tratamento do chamado.
 
 [![EriWatcher](http://img.youtube.com/vi/uUxGFBJANvc/0.jpg)](http://www.youtube.com/watch?v=uUxGFBJANvc "EriWatcher")
 

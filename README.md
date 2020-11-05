@@ -2,7 +2,7 @@
 
 ## Este projeto foi desenvolvido com intuito de automatizar tickets de inclusão/alteração/exclusão de usuários no Banco de Dados Oracle.  
 
-Foi desenvolvido um robô que vigia a fila de chamados e ao perceber um ticket específico automaticamente baixa uma planilha criada especificamente para a automação (Videos e Planilha/DocumentoExemplo.xlsm), onde as querys sao criadas de acordo com as informaçõoes inseridas.
+Foi desenvolvido um robô que vigia a fila de chamados e ao perceber um ticket específico automaticamente baixa uma planilha criada especificamente para a automação (Videos e Planilha/Documento Exemplo.xlsm), onde as querys sao criadas de acordo com as informaçõoes inseridas.
 
 O robô envia uma mensagem via Telegram informando o tratamento do chamado.
 
